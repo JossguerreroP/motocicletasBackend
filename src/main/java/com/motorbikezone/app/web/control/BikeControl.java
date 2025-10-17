@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
-@RequestMapping("/bike")
+@RequestMapping("/bikes")
 @RestController
 public class BikeControl {
 
